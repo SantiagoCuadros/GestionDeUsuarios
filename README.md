@@ -5,4 +5,5 @@ Aplicación de consola en Python 3 para administrar usuarios: registra, busca, v
 Ejecutar: python gestion_usuarios.py
 
 Autor: Santiago Cuadros 
+
 Agradecimientos al profe por su enseñanza y su paciencia 
